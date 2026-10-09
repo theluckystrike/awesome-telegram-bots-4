@@ -129,6 +129,7 @@ You can find a curated list of [Awesome Resources](https://telegram-bot-sdk.com/
 
 ### Social
 
+- [@AnonInboxProBot](https://t.me/AnonInboxProBot) - Anonymous inbox for groups: members message admins without revealing their identity; anti-spam and moderation tools included (English/Russian).
 - [@Shmsher_bot](https://t.me/Shmsher_bot) - Social Work.
 - [@MyInstagramRobot](https://t.me/MyInstagramRobot) - Instagram Media, Profile picture and Story downloader.
 - [@InstagramUpdatesBot](https://t.me/InstagramUpdatesBot) - Follow public Instagram profiles.
@@ -164,3 +165,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 To the extent possible under law, [Irfaq Syed](https://github.com/irazasyed) has waived all copyright and
 related or neighboring rights to this work.
+
